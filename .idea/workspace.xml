@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da0e55b-4f6e-471f-a6f1-b0bbc9617d7b" name="Default" comment="" />
+    <list default="true" id="4da0e55b-4f6e-471f-a6f1-b0bbc9617d7b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Stamp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/GameCharacter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/WzorceProjektoweJava21.iml" afterPath="$PROJECT_DIR$/WzorceProjektoweJava21.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Automat.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Automat.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/GeneratorTicketow.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/GeneratorTicketow.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/IGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/IGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Poczta.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Poczta.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Rejestracja.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Rejestracja.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/StronaInternetowa.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/StronaInternetowa.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AbstractPC.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AbstractPC.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AsusPC.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AsusPC.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/ComputerBrand.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/ComputerBrand.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/HpPC.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/HpPC.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/SamsungPC.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/SamsungPC.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/Bike.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/Bike.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeFactory.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeType.java" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeType.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,21 +39,173 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="AbstractPC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AbstractPC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bike.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/Bike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BikeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameCharacter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/GameCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="e#1348#1349#0" expanded="true" />
+                <element signature="e#1430#1431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stamp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Stamp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BikeType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HpPC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/HpPC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/IGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Poczta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/GeneratorTicketow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/ComputerBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AsusPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/SamsungPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/StronaInternetowa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Rejestracja.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Automat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/HpPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AbstractPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/Bike.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/GameCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/GameCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Stamp.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -35,6 +213,7 @@
     <option name="width" value="1271" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -51,7 +230,104 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="zad1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="zad1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="Zad2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektoweJava21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektoweJava21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
@@ -59,6 +335,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,13 +351,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javagda21.wzorce.creational.singleton.zadanie1.abstractFactory.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.singleton.zadanie1.abstractFactory.zad1.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WzorceProjektoweJava21" />
+      <envs />
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javagda21.wzorce.creational.singleton.zadanie1.Builder.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.singleton.zadanie1.Builder.zad1.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WzorceProjektoweJava21" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javagda21.wzorce.creational.singleton.zadanie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.singleton.zadanie1.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WzorceProjektoweJava21" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -154,6 +490,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -173,20 +521,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -211,8 +561,244 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/IGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Poczta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="e#409#410#0" expanded="false" />
+            <element signature="e#455#456#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
+            <element signature="e#564#565#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#659#660#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/GeneratorTicketow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/zadanie2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/ComputerBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/SamsungPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#464#465#0" expanded="false" />
+            <element signature="e#519#520#0" expanded="false" />
+            <element signature="e#583#584#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AsusPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/StronaInternetowa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="67" lean-forward="false" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Rejestracja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Automat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/HpPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/AbstractPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/abstractFactory/zad1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/creational/abstractFactory/zadanie2/BikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/GameCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/zad1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zadanie1/Builder/Zad2/Stamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -220,9 +806,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WzorceProjektoweJava21</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.18.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

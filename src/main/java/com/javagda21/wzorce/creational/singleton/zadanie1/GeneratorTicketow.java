@@ -1,12 +1,20 @@
 package com.javagda21.wzorce.creational.singleton.zadanie1;
 
-public class GeneratorTicketow {
-    private static GeneratorTicketow ourInstance = new GeneratorTicketow();
+public enum GeneratorTicketow {
 
-    public static GeneratorTicketow getInstance() {
-        return ourInstance;
-    }
+    INSTANCE;
+    //private static GeneratorTicketow ourInstance = new GeneratorTicketow();
+
+    //public static GeneratorTicketow getInstance() {
+       // return ourInstance;
+    //}
 
     private GeneratorTicketow() {
+    }
+
+    public int numerek = 1;
+    public int pobierzNastepnyNumerek(){
+        return numerek++;
+
     }
 }

@@ -9,16 +9,11 @@ public class Stamp {
 
     @Override
     public String toString() {
-        return "Stamp{" +
-                firstDayNumber + "-"+ secondDayNumber +
+        return firstDayNumber + secondDayNumber +
                         "-"+
-                + firstMonthNumber +"-"+
-                 + secondMonthNumber + "-"+
-                 + yearNumber1 + "-"+
-                 + yearNumber2 + "-"+
-          + yearNumber3 + "-"+
-                 + yearNumber4 + "-"+
-                 + caseNumber +
+                + firstMonthNumber + secondMonthNumber + "-"+
+                 + yearNumber1 + yearNumber2 +  yearNumber3 + yearNumber4 + ":"+
+                 + caseNumber
                 ;
     }
 

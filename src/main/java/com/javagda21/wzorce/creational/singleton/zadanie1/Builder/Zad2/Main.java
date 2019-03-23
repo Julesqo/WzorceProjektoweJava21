@@ -18,6 +18,8 @@ public class Main {
                 .setCaseNumber(20)
                 .createStamp();
 
+        System.out.println(stamp);
+
 
 
     }
